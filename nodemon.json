@@ -1,0 +1,6 @@
+{
+  "verbose": false,
+  "watch": ["server"],
+  "ext": "js html css scss yaml",
+  "ignore": ["dist", "build", "src", "public"]
+}
